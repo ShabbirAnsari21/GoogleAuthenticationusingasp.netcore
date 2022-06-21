@@ -1,0 +1,8 @@
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\GoogleAuth.exe
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\GoogleAuth.dll
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\GoogleAuth.deps.json
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\GoogleAuth.runtimeconfig.json
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\GoogleAuth.pdb
+D:\Auth-Testing\GoogleAuth\GoogleAuth\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Google.dll

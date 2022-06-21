@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53c028b2-a337-4c72-96a1-126c38f3dcee": {
+      "ProjectGuid": "53c028b2-a337-4c72-96a1-126c38f3dcee",
+      "DisplayName": "GoogleAuth",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
